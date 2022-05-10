@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @complexwang
 - 👀 I’m interested in geometry processing.
 - 🌱 I’m currently learning geometry algorithms.
-- 💞️ I’m looking to collaborate on geometry processing.
+- 💞️ I’m looking to collaborate on geometry processing algrorithms.
 - 📫 How to reach me 
 
 <!---
