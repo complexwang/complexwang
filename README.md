@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on geometry processing algrorithms.
 - 📫 How to reach me lawlietwang@163.com
 - 📫 This is my BiliBili homepage https://space.bilibili.com/610800557
+- 📫 This is my Zhihu homepage https://www.zhihu.com/people/complex-12-85
 
 
 <!---
